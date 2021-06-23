@@ -1,2 +1,3 @@
-props:
-  prop1: 123
+flags:
+  flagOne1: 123
+  flagTwo2: 321
